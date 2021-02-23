@@ -988,7 +988,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 }
 
 .theme-dark .da-friendsOnline {
-    color: hsla(285, 100%, 60%, 0);
+    color: #eee;
 }
 .theme-light .da-friendsOnline {
     color: #010101;
